@@ -9,18 +9,18 @@ A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Worked Performed in run_analysis.R
-----------------------------------
-1)Download the data from original data source
-2)Unzip
-3)Read activity labels and features
-4)Extract the data on mean and standard deviation
-5)Read the train and test datasets
-6)Merge the datasets and add labels
-7)Convert activities and subjects into factors
-8)Write the tidy dataset file to local directory
+-------------------------------------
+*1)Download the data from original data source
+*2)Unzip
+*3)Read activity labels and features
+*4)Extract the data on mean and standard deviation
+*5)Read the train and test datasets
+*6)Merge the datasets and add labels
+*7)Convert activities and subjects into factors
+*8)Write the tidy dataset file to local directory
 
 ## tidy_dataset.txt description
-----------------------------
+-------------------------------
 ## Identifiers
 
 * subject - The ID of the test subject
