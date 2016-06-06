@@ -12,15 +12,15 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 This repo contains the following files :
 
-* run_analysis.R
+* run_analysis.R : 
 It merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement. 
 Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names. 
 Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-* tidy_dataset.txt
+* tidy_dataset.txt : 
 Result of the run_analysis.R R script, the required tidy dataset was saved to this file.
 
-* codebook.md
+* codebook.md :
 Explanation of  the work performed in the run_analysis.R script and bried description of data saved in tidy_dataset.txt
